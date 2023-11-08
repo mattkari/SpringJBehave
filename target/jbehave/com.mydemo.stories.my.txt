@@ -1,0 +1,25 @@
+
+(com/mydemo/stories/my.story)
+BeforeSystemStorySteps
+
+BeforeUserStorySteps
+
+Scenario: A scenario with some pending steps
+BeforeSystemScenarioSteps
+
+BeforeUserScenarioSteps
+
+Given I am a pending step
+And I am still pending step
+When a good soul will implement me
+Then I shall be happy
+AfterUserScenarioSteps
+
+AfterSystemScenarioSteps
+
+
+AfterUserStorySteps
+
+AfterSystemStorySteps
+
+

@@ -1,0 +1,28 @@
+<story id="20e8a07b-394f-415e-a6c8-48e7ef31660c" path="com/mydemo/stories/my.story" title="">
+<beforeSystemStorySteps>
+</beforeSystemStorySteps>
+<beforeUserStorySteps>
+</beforeUserStorySteps>
+<scenario id="dbf09082-948f-47d0-8ccf-ce3b4d7a65bc" keyword="Scenario:" title="A scenario with some pending steps">
+<beforeSystemScenarioSteps>
+</beforeSystemScenarioSteps>
+<beforeUserScenarioSteps>
+</beforeUserScenarioSteps>
+<steps>
+<step outcome="successful">Given I am a pending step</step>
+<step outcome="successful">And I am still pending step</step>
+<step outcome="successful">When a good soul will implement me</step>
+<step outcome="successful">Then I shall be happy</step>
+</steps>
+<afterUserScenarioSteps>
+</afterUserScenarioSteps>
+<afterSystemScenarioSteps>
+</afterSystemScenarioSteps>
+<timing phase="start">1699439235423</timing>
+<timing phase="end">1699439235427</timing>
+</scenario>
+<afterUserStorySteps>
+</afterUserStorySteps>
+<afterSystemStorySteps>
+</afterSystemStorySteps>
+</story>
